@@ -8,6 +8,8 @@ So we asked ourselves: "What makes people happy?"
 To find an answer to that questions, we put all data visualization tools we own in our suitcase and embarked on a journey to figured out the answer to exactly this question. Our journeys took us from Switzerland to the USA, to Germany and to Colombia.
 From each destination, we brought back one saying, proverb or phrase about happiness, and explored whether they can help us answer the question which has puzzeld humanity for so long.
 
+Presentation file above (Word Happiness Index.pptx).
+
 **“Money can’t buy you happiness”** :money_with_wings:   
 *Swiss philosopher Jean-Jacques Rousseau*  
 
